@@ -1,7 +1,11 @@
 # COMP8240_Project
 ## COMP8240 Application of Data Science Major Project - Group C
 
-Team members: Sri Venkata Kameswara Naga Phanindra Kavipurapu, Jerome Roosan, Chandrashekhar Meenakshisundaram, Raja Pedapudi
+#### Team members:
+- Sri Venkata Kameswara Naga Phanindra Kavipurapu
+- Jerome Roosan
+- Chandrashekhar Meenakshisundaram
+- Raja Pedapudi
 
 ### Files and Directories
 

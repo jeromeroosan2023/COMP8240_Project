@@ -1,5 +1,5 @@
-# COMP8240_Project
-## COMP8240 Application of Data Science Major Project - Group C
+# COMP8240 - Application of Data Science
+## Major Project - Group C
 
 #### Team members:
 - Sri Venkata Kameswara Naga Phanindra Kavipurapu
